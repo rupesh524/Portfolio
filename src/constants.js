@@ -24,7 +24,7 @@ import dockerLogo from './assets/tech_logo/dockerLogo.png';
 
 // Education Section Logo's
 import collegeLogo from "./assets/education_logo/college.png";
-import schoolLogo from "./assets/education_logo/schoolLogo.jpg";
+import schoolLogo from "./assets/education_logo/schoollogo.jpg";
 
 
 // Project Section Logo's
